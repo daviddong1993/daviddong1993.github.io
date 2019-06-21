@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://sethtung.xyz/"/>
-  <updated>2019-06-21T02:53:37.672Z</updated>
+  <updated>2019-06-21T06:35:56.227Z</updated>
   <id>http://sethtung.xyz/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>bird</title>
+    <title>鸟之诗</title>
     <link href="http://sethtung.xyz/2019/06/21/bird/"/>
     <id>http://sethtung.xyz/2019/06/21/bird/</id>
     <published>2019-06-21T02:20:40.000Z</published>
-    <updated>2019-06-21T02:53:37.672Z</updated>
+    <updated>2019-06-21T06:35:56.227Z</updated>
     
-    <content type="html"><![CDATA[<img src="https://raw.githubusercontent.com/daviddong1993/tuchuang/master/IMG_20190524_184200.jpg"><p>当时我走在回寓所的路上，抬头看，这四只小鸟就像音符🎵一样站在线缆上，过了一会儿，就飞走了。</p>]]></content>
+    <content type="html"><![CDATA[<img src="https://raw.githubusercontent.com/daviddong1993/tuchuang/master/IMG_20190524_184200.jpg"><p>当时，我走在回寓所的路上，路过桥，抬头看，四只小鸟悠然地站在线缆上，在蓝天的衬托下，像是几个灵动的🎵，过了一会儿，就飞走了。</p>]]></content>
     
     <summary type="html">
     
@@ -31,7 +31,7 @@
       
         &lt;img src=&quot;https://raw.githubusercontent.com/daviddong1993/tuchuang/master/IMG_20190524_184200.jpg&quot;&gt;
 
-&lt;p&gt;当时我走在回寓所的路上，抬头看，这四只小鸟就像音符🎵一样站在线缆上，过
+&lt;p&gt;当时，我走在回寓所的路上，路过桥，抬头看，四只小鸟悠然地站在线缆上，在蓝
       
     
     </summary>
@@ -40,6 +40,8 @@
     
     
       <category term="鸟" scheme="http://sethtung.xyz/tags/%E9%B8%9F/"/>
+    
+      <category term="天空" scheme="http://sethtung.xyz/tags/%E5%A4%A9%E7%A9%BA/"/>
     
   </entry>
   
