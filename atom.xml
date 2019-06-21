@@ -5,9 +5,9 @@
   <subtitle>这些碎片，组成我。</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://sethtung.com/"/>
+  <link href="http://sethtung.xyz/"/>
   <updated>2019-06-21T02:53:37.672Z</updated>
-  <id>http://sethtung.com/</id>
+  <id>http://sethtung.xyz/</id>
   
   <author>
     <name>Seth Tung</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>bird</title>
-    <link href="http://sethtung.com/2019/06/21/bird/"/>
-    <id>http://sethtung.com/2019/06/21/bird/</id>
+    <link href="http://sethtung.xyz/2019/06/21/bird/"/>
+    <id>http://sethtung.xyz/2019/06/21/bird/</id>
     <published>2019-06-21T02:20:40.000Z</published>
     <updated>2019-06-21T02:53:37.672Z</updated>
     
@@ -36,17 +36,17 @@
     
     </summary>
     
-      <category term="手机摄影" scheme="http://sethtung.com/categories/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1/"/>
+      <category term="手机摄影" scheme="http://sethtung.xyz/categories/%E6%89%8B%E6%9C%BA%E6%91%84%E5%BD%B1/"/>
     
     
-      <category term="鸟" scheme="http://sethtung.com/tags/%E9%B8%9F/"/>
+      <category term="鸟" scheme="http://sethtung.xyz/tags/%E9%B8%9F/"/>
     
   </entry>
   
   <entry>
     <title>关于迷信</title>
-    <link href="http://sethtung.com/2019/06/10/mixin/"/>
-    <id>http://sethtung.com/2019/06/10/mixin/</id>
+    <link href="http://sethtung.xyz/2019/06/10/mixin/"/>
+    <id>http://sethtung.xyz/2019/06/10/mixin/</id>
     <published>2019-06-10T14:29:44.000Z</published>
     <updated>2019-06-11T15:40:05.173Z</updated>
     
@@ -61,17 +61,17 @@
     
     </summary>
     
-      <category term="议论" scheme="http://sethtung.com/categories/%E8%AE%AE%E8%AE%BA/"/>
+      <category term="议论" scheme="http://sethtung.xyz/categories/%E8%AE%AE%E8%AE%BA/"/>
     
     
-      <category term="迷信" scheme="http://sethtung.com/tags/%E8%BF%B7%E4%BF%A1/"/>
+      <category term="迷信" scheme="http://sethtung.xyz/tags/%E8%BF%B7%E4%BF%A1/"/>
     
   </entry>
   
   <entry>
     <title>书颂</title>
-    <link href="http://sethtung.com/2019/06/10/yongshu/"/>
-    <id>http://sethtung.com/2019/06/10/yongshu/</id>
+    <link href="http://sethtung.xyz/2019/06/10/yongshu/"/>
+    <id>http://sethtung.xyz/2019/06/10/yongshu/</id>
     <published>2019-06-10T14:27:03.000Z</published>
     <updated>2019-06-10T14:33:21.592Z</updated>
     
@@ -88,17 +88,17 @@
     
     </summary>
     
-      <category term="新诗" scheme="http://sethtung.com/categories/%E6%96%B0%E8%AF%97/"/>
+      <category term="新诗" scheme="http://sethtung.xyz/categories/%E6%96%B0%E8%AF%97/"/>
     
     
-      <category term="书" scheme="http://sethtung.com/tags/%E4%B9%A6/"/>
+      <category term="书" scheme="http://sethtung.xyz/tags/%E4%B9%A6/"/>
     
   </entry>
   
   <entry>
     <title>雨伞</title>
-    <link href="http://sethtung.com/2019/06/10/yusan/"/>
-    <id>http://sethtung.com/2019/06/10/yusan/</id>
+    <link href="http://sethtung.xyz/2019/06/10/yusan/"/>
+    <id>http://sethtung.xyz/2019/06/10/yusan/</id>
     <published>2019-06-10T14:25:31.000Z</published>
     <updated>2019-06-10T14:26:22.779Z</updated>
     
@@ -114,17 +114,17 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://sethtung.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://sethtung.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="雨伞" scheme="http://sethtung.com/tags/%E9%9B%A8%E4%BC%9E/"/>
+      <category term="雨伞" scheme="http://sethtung.xyz/tags/%E9%9B%A8%E4%BC%9E/"/>
     
   </entry>
   
   <entry>
     <title>火车开往德州</title>
-    <link href="http://sethtung.com/2019/06/10/dezhou/"/>
-    <id>http://sethtung.com/2019/06/10/dezhou/</id>
+    <link href="http://sethtung.xyz/2019/06/10/dezhou/"/>
+    <id>http://sethtung.xyz/2019/06/10/dezhou/</id>
     <published>2019-06-10T13:02:19.000Z</published>
     <updated>2019-06-10T13:03:30.781Z</updated>
     
@@ -141,17 +141,17 @@
     
     </summary>
     
-      <category term="新诗" scheme="http://sethtung.com/categories/%E6%96%B0%E8%AF%97/"/>
+      <category term="新诗" scheme="http://sethtung.xyz/categories/%E6%96%B0%E8%AF%97/"/>
     
     
-      <category term="旅途" scheme="http://sethtung.com/tags/%E6%97%85%E9%80%94/"/>
+      <category term="旅途" scheme="http://sethtung.xyz/tags/%E6%97%85%E9%80%94/"/>
     
   </entry>
   
   <entry>
     <title>昨夜我梦见父亲</title>
-    <link href="http://sethtung.com/2019/06/10/mengjianfuqin/"/>
-    <id>http://sethtung.com/2019/06/10/mengjianfuqin/</id>
+    <link href="http://sethtung.xyz/2019/06/10/mengjianfuqin/"/>
+    <id>http://sethtung.xyz/2019/06/10/mengjianfuqin/</id>
     <published>2019-06-10T12:56:11.000Z</published>
     <updated>2019-06-10T12:59:53.304Z</updated>
     
@@ -168,17 +168,17 @@
     
     </summary>
     
-      <category term="新诗" scheme="http://sethtung.com/categories/%E6%96%B0%E8%AF%97/"/>
+      <category term="新诗" scheme="http://sethtung.xyz/categories/%E6%96%B0%E8%AF%97/"/>
     
     
-      <category term="父亲" scheme="http://sethtung.com/tags/%E7%88%B6%E4%BA%B2/"/>
+      <category term="父亲" scheme="http://sethtung.xyz/tags/%E7%88%B6%E4%BA%B2/"/>
     
   </entry>
   
   <entry>
     <title>采矿人</title>
-    <link href="http://sethtung.com/2019/06/10/caikuang/"/>
-    <id>http://sethtung.com/2019/06/10/caikuang/</id>
+    <link href="http://sethtung.xyz/2019/06/10/caikuang/"/>
+    <id>http://sethtung.xyz/2019/06/10/caikuang/</id>
     <published>2019-06-10T12:39:56.000Z</published>
     <updated>2019-06-10T15:18:42.285Z</updated>
     
@@ -194,19 +194,19 @@
     
     </summary>
     
-      <category term="新诗" scheme="http://sethtung.com/categories/%E6%96%B0%E8%AF%97/"/>
+      <category term="新诗" scheme="http://sethtung.xyz/categories/%E6%96%B0%E8%AF%97/"/>
     
     
-      <category term="生活" scheme="http://sethtung.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
-      <category term="友情" scheme="http://sethtung.com/tags/%E5%8F%8B%E6%83%85/"/>
+      <category term="友情" scheme="http://sethtung.xyz/tags/%E5%8F%8B%E6%83%85/"/>
     
   </entry>
   
   <entry>
     <title>爷爷和麻雀</title>
-    <link href="http://sethtung.com/2019/06/10/yeyedemaque/"/>
-    <id>http://sethtung.com/2019/06/10/yeyedemaque/</id>
+    <link href="http://sethtung.xyz/2019/06/10/yeyedemaque/"/>
+    <id>http://sethtung.xyz/2019/06/10/yeyedemaque/</id>
     <published>2019-06-10T12:36:29.000Z</published>
     <updated>2019-06-10T15:14:55.136Z</updated>
     
@@ -222,21 +222,21 @@
     
     </summary>
     
-      <category term="散文" scheme="http://sethtung.com/categories/%E6%95%A3%E6%96%87/"/>
+      <category term="散文" scheme="http://sethtung.xyz/categories/%E6%95%A3%E6%96%87/"/>
     
     
-      <category term="童年" scheme="http://sethtung.com/tags/%E7%AB%A5%E5%B9%B4/"/>
+      <category term="童年" scheme="http://sethtung.xyz/tags/%E7%AB%A5%E5%B9%B4/"/>
     
-      <category term="麻雀" scheme="http://sethtung.com/tags/%E9%BA%BB%E9%9B%80/"/>
+      <category term="麻雀" scheme="http://sethtung.xyz/tags/%E9%BA%BB%E9%9B%80/"/>
     
-      <category term="爷爷" scheme="http://sethtung.com/tags/%E7%88%B7%E7%88%B7/"/>
+      <category term="爷爷" scheme="http://sethtung.xyz/tags/%E7%88%B7%E7%88%B7/"/>
     
   </entry>
   
   <entry>
     <title>云想</title>
-    <link href="http://sethtung.com/2019/06/10/yunxiang/"/>
-    <id>http://sethtung.com/2019/06/10/yunxiang/</id>
+    <link href="http://sethtung.xyz/2019/06/10/yunxiang/"/>
+    <id>http://sethtung.xyz/2019/06/10/yunxiang/</id>
     <published>2019-06-10T12:07:34.000Z</published>
     <updated>2019-06-10T15:11:01.262Z</updated>
     
@@ -252,19 +252,19 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://sethtung.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://sethtung.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活" scheme="http://sethtung.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
-      <category term="云" scheme="http://sethtung.com/tags/%E4%BA%91/"/>
+      <category term="云" scheme="http://sethtung.xyz/tags/%E4%BA%91/"/>
     
   </entry>
   
   <entry>
     <title>锁</title>
-    <link href="http://sethtung.com/2019/06/10/suo/"/>
-    <id>http://sethtung.com/2019/06/10/suo/</id>
+    <link href="http://sethtung.xyz/2019/06/10/suo/"/>
+    <id>http://sethtung.xyz/2019/06/10/suo/</id>
     <published>2019-06-10T12:05:21.000Z</published>
     <updated>2019-06-10T12:07:09.173Z</updated>
     
@@ -279,17 +279,17 @@
     
     </summary>
     
-      <category term="新诗" scheme="http://sethtung.com/categories/%E6%96%B0%E8%AF%97/"/>
+      <category term="新诗" scheme="http://sethtung.xyz/categories/%E6%96%B0%E8%AF%97/"/>
     
     
-      <category term="文化" scheme="http://sethtung.com/tags/%E6%96%87%E5%8C%96/"/>
+      <category term="文化" scheme="http://sethtung.xyz/tags/%E6%96%87%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>吃饭、唱歌与多元文化</title>
-    <link href="http://sethtung.com/2019/06/10/duoyuanwenhua/"/>
-    <id>http://sethtung.com/2019/06/10/duoyuanwenhua/</id>
+    <link href="http://sethtung.xyz/2019/06/10/duoyuanwenhua/"/>
+    <id>http://sethtung.xyz/2019/06/10/duoyuanwenhua/</id>
     <published>2019-06-10T12:02:23.000Z</published>
     <updated>2019-06-11T15:40:27.647Z</updated>
     
@@ -305,21 +305,21 @@
     
     </summary>
     
-      <category term="议论" scheme="http://sethtung.com/categories/%E8%AE%AE%E8%AE%BA/"/>
+      <category term="议论" scheme="http://sethtung.xyz/categories/%E8%AE%AE%E8%AE%BA/"/>
     
     
-      <category term="多元文化" scheme="http://sethtung.com/tags/%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96/"/>
+      <category term="多元文化" scheme="http://sethtung.xyz/tags/%E5%A4%9A%E5%85%83%E6%96%87%E5%8C%96/"/>
     
-      <category term="小猪佩奇" scheme="http://sethtung.com/tags/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/"/>
+      <category term="小猪佩奇" scheme="http://sethtung.xyz/tags/%E5%B0%8F%E7%8C%AA%E4%BD%A9%E5%A5%87/"/>
     
-      <category term="天线宝宝" scheme="http://sethtung.com/tags/%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D/"/>
+      <category term="天线宝宝" scheme="http://sethtung.xyz/tags/%E5%A4%A9%E7%BA%BF%E5%AE%9D%E5%AE%9D/"/>
     
   </entry>
   
   <entry>
     <title>打猎</title>
-    <link href="http://sethtung.com/2019/06/10/dalie/"/>
-    <id>http://sethtung.com/2019/06/10/dalie/</id>
+    <link href="http://sethtung.xyz/2019/06/10/dalie/"/>
+    <id>http://sethtung.xyz/2019/06/10/dalie/</id>
     <published>2019-06-10T11:51:56.000Z</published>
     <updated>2019-06-10T11:57:16.080Z</updated>
     
@@ -335,17 +335,17 @@
     
     </summary>
     
-      <category term="新诗" scheme="http://sethtung.com/categories/%E6%96%B0%E8%AF%97/"/>
+      <category term="新诗" scheme="http://sethtung.xyz/categories/%E6%96%B0%E8%AF%97/"/>
     
     
-      <category term="云" scheme="http://sethtung.com/tags/%E4%BA%91/"/>
+      <category term="云" scheme="http://sethtung.xyz/tags/%E4%BA%91/"/>
     
   </entry>
   
   <entry>
     <title>母亲的电话</title>
-    <link href="http://sethtung.com/2019/06/10/dianhua/"/>
-    <id>http://sethtung.com/2019/06/10/dianhua/</id>
+    <link href="http://sethtung.xyz/2019/06/10/dianhua/"/>
+    <id>http://sethtung.xyz/2019/06/10/dianhua/</id>
     <published>2019-06-10T11:49:06.000Z</published>
     <updated>2019-06-10T11:51:35.159Z</updated>
     
@@ -362,19 +362,19 @@
     
     </summary>
     
-      <category term="随笔" scheme="http://sethtung.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://sethtung.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="生活" scheme="http://sethtung.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
-      <category term="情感" scheme="http://sethtung.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://sethtung.xyz/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>一次对话</title>
-    <link href="http://sethtung.com/2019/06/10/yiciduihua/"/>
-    <id>http://sethtung.com/2019/06/10/yiciduihua/</id>
+    <link href="http://sethtung.xyz/2019/06/10/yiciduihua/"/>
+    <id>http://sethtung.xyz/2019/06/10/yiciduihua/</id>
     <published>2019-06-10T11:39:50.000Z</published>
     <updated>2019-06-10T11:50:51.876Z</updated>
     
@@ -390,17 +390,17 @@
     
     </summary>
     
-      <category term="故事" scheme="http://sethtung.com/categories/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://sethtung.xyz/categories/%E6%95%85%E4%BA%8B/"/>
     
     
-      <category term="生活" scheme="http://sethtung.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>饿狗</title>
-    <link href="http://sethtung.com/2019/06/10/egou/"/>
-    <id>http://sethtung.com/2019/06/10/egou/</id>
+    <link href="http://sethtung.xyz/2019/06/10/egou/"/>
+    <id>http://sethtung.xyz/2019/06/10/egou/</id>
     <published>2019-06-10T11:31:06.000Z</published>
     <updated>2019-06-10T11:58:41.889Z</updated>
     
@@ -416,17 +416,17 @@
     
     </summary>
     
-      <category term="故事" scheme="http://sethtung.com/categories/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://sethtung.xyz/categories/%E6%95%85%E4%BA%8B/"/>
     
     
-      <category term="志怪" scheme="http://sethtung.com/tags/%E5%BF%97%E6%80%AA/"/>
+      <category term="志怪" scheme="http://sethtung.xyz/tags/%E5%BF%97%E6%80%AA/"/>
     
   </entry>
   
   <entry>
     <title>四个女人</title>
-    <link href="http://sethtung.com/2019/06/10/sigenvren/"/>
-    <id>http://sethtung.com/2019/06/10/sigenvren/</id>
+    <link href="http://sethtung.xyz/2019/06/10/sigenvren/"/>
+    <id>http://sethtung.xyz/2019/06/10/sigenvren/</id>
     <published>2019-06-10T11:23:02.000Z</published>
     <updated>2019-06-10T11:34:46.293Z</updated>
     
@@ -442,17 +442,17 @@
     
     </summary>
     
-      <category term="故事" scheme="http://sethtung.com/categories/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://sethtung.xyz/categories/%E6%95%85%E4%BA%8B/"/>
     
     
-      <category term="生活" scheme="http://sethtung.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>投胎事二则</title>
-    <link href="http://sethtung.com/2019/06/10/toutai/"/>
-    <id>http://sethtung.com/2019/06/10/toutai/</id>
+    <link href="http://sethtung.xyz/2019/06/10/toutai/"/>
+    <id>http://sethtung.xyz/2019/06/10/toutai/</id>
     <published>2019-06-10T11:07:14.000Z</published>
     <updated>2019-06-10T11:35:44.130Z</updated>
     
@@ -468,17 +468,17 @@
     
     </summary>
     
-      <category term="故事" scheme="http://sethtung.com/categories/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://sethtung.xyz/categories/%E6%95%85%E4%BA%8B/"/>
     
     
-      <category term="志怪" scheme="http://sethtung.com/tags/%E5%BF%97%E6%80%AA/"/>
+      <category term="志怪" scheme="http://sethtung.xyz/tags/%E5%BF%97%E6%80%AA/"/>
     
   </entry>
   
   <entry>
     <title>鱼的绝笔</title>
-    <link href="http://sethtung.com/2019/06/07/yudejuebi/"/>
-    <id>http://sethtung.com/2019/06/07/yudejuebi/</id>
+    <link href="http://sethtung.xyz/2019/06/07/yudejuebi/"/>
+    <id>http://sethtung.xyz/2019/06/07/yudejuebi/</id>
     <published>2019-06-07T15:30:02.000Z</published>
     <updated>2019-06-10T11:36:14.646Z</updated>
     
@@ -494,17 +494,17 @@
     
     </summary>
     
-      <category term="故事" scheme="http://sethtung.com/categories/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://sethtung.xyz/categories/%E6%95%85%E4%BA%8B/"/>
     
     
-      <category term="寓言" scheme="http://sethtung.com/tags/%E5%AF%93%E8%A8%80/"/>
+      <category term="寓言" scheme="http://sethtung.xyz/tags/%E5%AF%93%E8%A8%80/"/>
     
   </entry>
   
   <entry>
     <title>写给豆豆</title>
-    <link href="http://sethtung.com/2019/06/07/xiegeidoudou/"/>
-    <id>http://sethtung.com/2019/06/07/xiegeidoudou/</id>
+    <link href="http://sethtung.xyz/2019/06/07/xiegeidoudou/"/>
+    <id>http://sethtung.xyz/2019/06/07/xiegeidoudou/</id>
     <published>2019-06-06T18:07:40.000Z</published>
     <updated>2019-06-10T11:37:20.294Z</updated>
     
@@ -521,19 +521,19 @@
     
     </summary>
     
-      <category term="其他" scheme="http://sethtung.com/categories/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="http://sethtung.xyz/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-      <category term="情感" scheme="http://sethtung.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://sethtung.xyz/tags/%E6%83%85%E6%84%9F/"/>
     
-      <category term="书信" scheme="http://sethtung.com/tags/%E4%B9%A6%E4%BF%A1/"/>
+      <category term="书信" scheme="http://sethtung.xyz/tags/%E4%B9%A6%E4%BF%A1/"/>
     
   </entry>
   
   <entry>
     <title>烟花</title>
-    <link href="http://sethtung.com/2019/06/07/yanhua/"/>
-    <id>http://sethtung.com/2019/06/07/yanhua/</id>
+    <link href="http://sethtung.xyz/2019/06/07/yanhua/"/>
+    <id>http://sethtung.xyz/2019/06/07/yanhua/</id>
     <published>2019-06-06T18:03:40.000Z</published>
     <updated>2019-06-10T11:37:03.152Z</updated>
     
@@ -549,10 +549,10 @@
     
     </summary>
     
-      <category term="故事" scheme="http://sethtung.com/categories/%E6%95%85%E4%BA%8B/"/>
+      <category term="故事" scheme="http://sethtung.xyz/categories/%E6%95%85%E4%BA%8B/"/>
     
     
-      <category term="生活" scheme="http://sethtung.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
