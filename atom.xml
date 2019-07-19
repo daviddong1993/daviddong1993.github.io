@@ -51,9 +51,9 @@
     <link href="http://sethtung.xyz/2019/06/21/bird/"/>
     <id>http://sethtung.xyz/2019/06/21/bird/</id>
     <published>2019-06-21T02:20:40.000Z</published>
-    <updated>2019-07-18T08:28:37.460Z</updated>
+    <updated>2019-07-19T02:04:02.649Z</updated>
     
-    <content type="html"><![CDATA[<img src="https://raw.githubusercontent.com/daviddong1993/tuchuang/master/IMG_20190524_184200.jpg"><p>天气很好，我走在回寓所的路上。路过桥的时候，抬头一看，只见四只小鸟悠然地站在线缆上，在蓝天的衬托下，像四个灵动的音符。他们喳喳地叫着，似在交谈，在我听来，却是悦耳的歌。</p>]]></content>
+    <content type="html"><![CDATA[<img src="https://raw.githubusercontent.com/daviddong1993/tuchuang/master/IMG_20190524_184200.jpg"><p>天气很好，我走在回寓所的路上,路过桥的时候，抬头一看，只见四只小鸟悠然地站在线缆上，在蓝天的衬托下，像四个灵动的音符。他们喳喳地叫着，似在交谈，在我听来，却是悦耳的歌。</p>]]></content>
     
     <summary type="html">
     
@@ -61,7 +61,7 @@
       
         &lt;img src=&quot;https://raw.githubusercontent.com/daviddong1993/tuchuang/master/IMG_20190524_184200.jpg&quot;&gt;
 
-&lt;p&gt;天气很好，我走在回寓所的路上。路过桥的时候，抬头一看，只见四只小鸟悠然地
+&lt;p&gt;天气很好，我走在回寓所的路上,路过桥的时候，抬头一看，只见四只小鸟悠然地
       
     
     </summary>
@@ -287,9 +287,9 @@
       <category term="随笔" scheme="http://sethtung.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="云" scheme="http://sethtung.xyz/tags/%E4%BA%91/"/>
-    
       <category term="生活" scheme="http://sethtung.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="云" scheme="http://sethtung.xyz/tags/%E4%BA%91/"/>
     
   </entry>
   
